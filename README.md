@@ -48,5 +48,5 @@ Role: Grow, Maintain, Review, or Rationalise.
 Excel (Power Query, Pivot Tables, Data Visualization)
 
 ## Reports
-- [Part 1 — Product Performance Analysis](./Report_1_Product_Analysis.pdf)
-- [Part 2 — Portfolio Health Scorecard](./Report_2_Portfolio_Scorecard.pdf)
+- [Part 1 - Product Performance Analysis](./Report_1_Product_Analysis.pdf)
+- [Part 2 - Portfolio Health Scorecard](./Report_2_Portfolio_Scorecard.pdf)
