@@ -2,7 +2,7 @@
 
 ## Business Problem
 Large beauty portfolios are often managed using surface-level metrics 
-like popularity and revenue. These signals can conflict — highly engaged 
+like popularity and revenue. These signals can conflict; highly engaged 
 products don't always deliver strong satisfaction, and highly rated 
 products often remain under-leveraged. This project evaluates what 
 actually drives product and category performance across a large beauty 
@@ -10,7 +10,7 @@ e-commerce portfolio.
 
 ## Objective
 To analyse product and category-level performance across price tiers, 
-engagement, satisfaction, and operational health — and identify where 
+engagement, satisfaction, and operational health, and identify where 
 the business should grow, maintain, or rationalise its assortment.
 
 ## Dataset
@@ -22,12 +22,12 @@ the business should grow, maintain, or rationalise its assortment.
 ## Approach
 The analysis was conducted in two parts:
 
-**Part 1 — Product Performance Analysis**
+**Part 1 - Product Performance Analysis**
 Evaluated portfolio performance across price tiers, categories, brands, 
 and promotional attributes to identify what drives engagement vs 
 satisfaction.
 
-**Part 2 — Portfolio Health Scorecard**
+**Part 2 - Portfolio Health Scorecard**
 Built a repeatable scoring framework evaluating all 41 secondary 
 categories across four dimensions: engagement, satisfaction, review 
 intensity, and stockout risk. Each category was assigned a Portfolio 
@@ -36,7 +36,7 @@ Role: Grow, Maintain, Review, or Rationalise.
 ## Key Findings
 - Budget products drive 80%+ of portfolio engagement; premium pricing 
   adds minimal perceived value
-- High engagement does not consistently map to high satisfaction — 
+- High engagement does not consistently map to high satisfaction; 
   a structural engagement-satisfaction gap exists across the portfolio
 - Only 2 categories (Cheek and Makeup Palettes) qualify as Grow, 
   performing strongly on both dimensions
